@@ -1,0 +1,2 @@
+module ManzanasHelper
+end
